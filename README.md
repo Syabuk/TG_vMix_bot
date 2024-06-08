@@ -18,6 +18,7 @@ pip install requests
 
 Для корректной работы необходимо включить настройку `Web Controller`:
 `Settings` -> `Web Controller` -> `Enabled` :
+
 Allow access to following witjout login:
 - Controller
 - API
