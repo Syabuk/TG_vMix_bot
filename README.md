@@ -21,5 +21,6 @@ pip install requests
 Allow access to following witjout login:
 - Controller
 - API
-![[Снимок.png]]
+<img width="689" alt="Снимок" src="https://github.com/Syabuk/TG_vMix_bot/assets/74771841/03e6572c-5b18-4d3e-b276-c76e09ea24bc">
+
 Добавляем 12 источников в проект и начинаем пользоваться.
